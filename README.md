@@ -13,11 +13,10 @@ You can click the Preview link to take a look at your changes.
 [<img alt="Javascript" width="5%" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />](https://www.google.com/search?&q=Javascript)
 [<img alt="PostgreSQL" width="5%" src="https://img.icons8.com/color/48/000000/postgreesql.png" />](https://www.google.com/search?&q=PostgreSQL)
 [<img alt="SQL" width="5%" src="https://img.icons8.com/color-glass/48/000000/sql.png" />](https://www.google.com/search?&q=SQL)
-[<img alt="Git" width="5%" src="https://img.icons8.com/color/48/000000/git.png" />](https://www.google.com/search?&q=Git)
 
 [<img alt="React" width="7%" src="https://img.icons8.com/plasticine/100/000000/react.png" />](https://www.google.com/search?&q=React)
 [<img alt="Bootstrap" width="5%" src="https://img.icons8.com/color/48/000000/bootstrap.png" />](https://www.google.com/search?&q=bootstrap)
-[<img alt="Flask" width="5%" src="https://img.icons8.com/ios/50/000000/flask.png" />](https://www.google.com/search?&q=Flask)
+[<img alt="Flask" width="5%" src="https://img.icons8.com/nolan/64/flask.png" />](https://www.google.com/search?&q=Flask)
 
 ## Social Media
 <p>
