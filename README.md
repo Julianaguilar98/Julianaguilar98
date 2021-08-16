@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Stats :compass:
 <img src="https://github-readme-stats.vercel.app/api?username=julianaguilar98&hide=stars&show_icons=true&theme=tokyonight&line_height=32">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaguilar98&layout=compact&theme=tokyonight">
