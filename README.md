@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julian!
+## 👋 Hey, my name's Julian!
 - 👀 I’m studying Computer Science @ the University of Houston
 - 🌱 I’m currently learning Full Stack Development and basic Digital Signal Processing
 
