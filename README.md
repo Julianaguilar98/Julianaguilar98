@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Github Stats :compass:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaguilar98&layout=compact&theme=material-palenight>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaguilar98&layout=compact&theme=material-synthwave">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaguilar98&count_private=true&theme=synthwave">
