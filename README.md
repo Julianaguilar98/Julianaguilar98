@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [<img alt="SQL" width="5%" src="https://img.icons8.com/color-glass/48/000000/sql.png" />](https://www.google.com/search?&q=SQL)
 [<img alt="Git" width="5%" src="https://img.icons8.com/color/48/000000/git.png" />](https://www.google.com/search?&q=Git)
 
-[<img alt="React" width="7%" src="https://img.icons8.com/office/16/000000/react.png" />](https://www.google.com/search?&q=React)
+[<img alt="React" width="7%" src="https://img.icons8.com/plasticine/100/000000/react.png" />](https://www.google.com/search?&q=React)
 [<img alt="Bootstrap" width="5%" src="https://img.icons8.com/color/48/000000/bootstrap.png" />](https://www.google.com/search?&q=bootstrap)
 [<img alt="Flask" width="5%" src="https://img.icons8.com/ios/50/000000/flask.png" />](https://www.google.com/search?&q=Flask)
 
