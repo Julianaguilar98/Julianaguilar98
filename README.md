@@ -1,7 +1,7 @@
 ## 👋 Hey, my name's Julian!
 - ✨ You can call me Jules :sunglasses:
-- 👀:closed_book: I’m studying Computer Science @ the University of Houston
-- 🌱 I’m currently learning full stack web development using a variety of languages, and frameworks.
+- :closed_book: I’m studying Computer Science @ the University of Houston
+- :books: I’m currently learning full stack web development using a variety of languages, and frameworks.
 - ⚡ Fun facts: I've been playing guitar for 7 years, and I do a bit of orchestral music production on the side. I also love repairing vintage electronics, and using my soldering skills to fix things once thought unrepairable.
 
 <!---
