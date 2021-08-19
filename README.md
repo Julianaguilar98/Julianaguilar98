@@ -1,5 +1,5 @@
 ## 👋 Hey, my name's Julian!
-but you can call me Jules!
+#But call me Jules :)
 
 - 👀 I’m studying Computer Science @ the University of Houston
 - 🌱 I’m currently learning full stack web development using a variety of languages, and frameworks.
