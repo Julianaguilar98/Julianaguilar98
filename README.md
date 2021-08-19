@@ -1,4 +1,4 @@
-## 👋 Hey, my name's Julian!
+## 👋:wave: Hey, my name's Julian!
 - ✨ You can call me Jules :sunglasses:
 - :closed_book: I’m studying Computer Science @ the University of Houston
 - :books: I’m currently learning full stack web development using a variety of languages, and frameworks.
