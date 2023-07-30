@@ -11,5 +11,4 @@ You can click the Preview link to take a look at your changes.
 ## Social Media
 <p>
 	<a href="https://www.linkedin.com/in/julianaguilar98/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.youtube.com/channel/UCdUvBftJI0nAMS3Wbch29lw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
 </p>
